@@ -1,5 +1,8 @@
 _repo: Dramatics-in-the-home_70738
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70738-h/images/cover.jpg
 creator:
   author:
     agent_name: Forbush, William Byron
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '9015'
     url: http://www.gutenberg.org/2009/agents/9015
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70738#Dramatics-in-the-home
 gutenberg_issued: '2023-05-11'
 identifiers:
   gutenberg: '70738'
